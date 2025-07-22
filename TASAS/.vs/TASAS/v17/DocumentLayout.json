@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\INGENIERIA ECONOMICA\\INGENIERIA ECONOMICA PROGRAMAS\\TASAS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E097E9A8-CC9A-48CE-B473-14A0396EF5F2}|TASAS\\TASAS.csproj|c:\\users\\lenovo\\desktop\\ingenieria economica\\ingenieria economica programas\\tasas\\tasas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E097E9A8-CC9A-48CE-B473-14A0396EF5F2}|TASAS\\TASAS.csproj|solutionrelative:tasas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E097E9A8-CC9A-48CE-B473-14A0396EF5F2}|TASAS\\TASAS.csproj|C:\\Users\\Lenovo\\Desktop\\INGENIERIA ECONOMICA\\INGENIERIA ECONOMICA PROGRAMAS\\TASAS\\tasas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E097E9A8-CC9A-48CE-B473-14A0396EF5F2}|TASAS\\TASAS.csproj|solutionrelative:tasas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\INGENIERIA ECONOMICA\\INGENIERIA ECONOMICA PROGRAMAS\\TASAS\\TASAS\\Form1.cs",
+              "RelativeDocumentMoniker": "TASAS\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\INGENIERIA ECONOMICA\\INGENIERIA ECONOMICA PROGRAMAS\\TASAS\\TASAS\\Form1.cs",
+              "RelativeToolTip": "TASAS\\Form1.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAAAIcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T02:25:15.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\INGENIERIA ECONOMICA\\INGENIERIA ECONOMICA PROGRAMAS\\TASAS\\TASAS\\Form1.cs",
+              "RelativeDocumentMoniker": "TASAS\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\INGENIERIA ECONOMICA\\INGENIERIA ECONOMICA PROGRAMAS\\TASAS\\TASAS\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TASAS\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T02:25:15.954Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

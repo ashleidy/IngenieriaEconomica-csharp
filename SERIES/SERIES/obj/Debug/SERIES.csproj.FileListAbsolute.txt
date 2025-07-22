@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\INGENIERIA ECONOMICA PROGRAMAS\SERIES\SERIES\bin\Debug\SERIES.exe.config
+C:\Users\Lenovo\Desktop\INGENIERIA ECONOMICA PROGRAMAS\SERIES\SERIES\bin\Debug\SERIES.exe
+C:\Users\Lenovo\Desktop\INGENIERIA ECONOMICA PROGRAMAS\SERIES\SERIES\bin\Debug\SERIES.pdb
+C:\Users\Lenovo\Desktop\INGENIERIA ECONOMICA PROGRAMAS\SERIES\SERIES\obj\Debug\SERIES.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\INGENIERIA ECONOMICA PROGRAMAS\SERIES\SERIES\obj\Debug\SERIES.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\INGENIERIA ECONOMICA PROGRAMAS\SERIES\SERIES\obj\Debug\SERIES.anualidad.resources
+C:\Users\Lenovo\Desktop\INGENIERIA ECONOMICA PROGRAMAS\SERIES\SERIES\obj\Debug\SERIES.Form1.resources
+C:\Users\Lenovo\Desktop\INGENIERIA ECONOMICA PROGRAMAS\SERIES\SERIES\obj\Debug\SERIES.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\INGENIERIA ECONOMICA PROGRAMAS\SERIES\SERIES\obj\Debug\SERIES.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\INGENIERIA ECONOMICA PROGRAMAS\SERIES\SERIES\obj\Debug\SERIES.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\INGENIERIA ECONOMICA PROGRAMAS\SERIES\SERIES\obj\Debug\SERIES.exe
+C:\Users\Lenovo\Desktop\INGENIERIA ECONOMICA PROGRAMAS\SERIES\SERIES\obj\Debug\SERIES.pdb
+C:\Users\Lenovo\Desktop\INGENIERIA ECONOMICA PROGRAMAS\SERIES\SERIES\obj\Debug\SERIES.anualidad_anticipada.resources
+C:\Users\Lenovo\Desktop\INGENIERIA ECONOMICA PROGRAMAS\SERIES\SERIES\obj\Debug\SERIES.anualidad_diferida.resources
+C:\Users\Lenovo\Desktop\INGENIERIA ECONOMICA PROGRAMAS\SERIES\SERIES\obj\Debug\SERIES.anualidad_perpetua.resources

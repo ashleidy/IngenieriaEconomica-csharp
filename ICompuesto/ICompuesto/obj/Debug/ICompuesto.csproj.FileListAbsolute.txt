@@ -1,0 +1,21 @@
+C:\Users\Lenovo\Desktop\INGENIERIA ECONOMICA PROGRAMAS\ICompuesto\ICompuesto\bin\Debug\ICompuesto.exe.config
+C:\Users\Lenovo\Desktop\INGENIERIA ECONOMICA PROGRAMAS\ICompuesto\ICompuesto\bin\Debug\ICompuesto.exe
+C:\Users\Lenovo\Desktop\INGENIERIA ECONOMICA PROGRAMAS\ICompuesto\ICompuesto\bin\Debug\ICompuesto.pdb
+C:\Users\Lenovo\Desktop\INGENIERIA ECONOMICA PROGRAMAS\ICompuesto\ICompuesto\obj\Debug\ICompuesto.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\INGENIERIA ECONOMICA PROGRAMAS\ICompuesto\ICompuesto\obj\Debug\ICompuesto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\INGENIERIA ECONOMICA PROGRAMAS\ICompuesto\ICompuesto\obj\Debug\ICompuesto.Form1.resources
+C:\Users\Lenovo\Desktop\INGENIERIA ECONOMICA PROGRAMAS\ICompuesto\ICompuesto\obj\Debug\ICompuesto.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\INGENIERIA ECONOMICA PROGRAMAS\ICompuesto\ICompuesto\obj\Debug\ICompuesto.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\INGENIERIA ECONOMICA PROGRAMAS\ICompuesto\ICompuesto\obj\Debug\ICompuesto.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\INGENIERIA ECONOMICA PROGRAMAS\ICompuesto\ICompuesto\obj\Debug\ICompuesto.exe
+C:\Users\Lenovo\Desktop\INGENIERIA ECONOMICA PROGRAMAS\ICompuesto\ICompuesto\obj\Debug\ICompuesto.pdb
+C:\Users\Lenovo\Desktop\INGENIERIA ECONOMICA\INGENIERIA ECONOMICA PROGRAMAS\ICompuesto\ICompuesto\bin\Debug\ICompuesto.exe.config
+C:\Users\Lenovo\Desktop\INGENIERIA ECONOMICA\INGENIERIA ECONOMICA PROGRAMAS\ICompuesto\ICompuesto\bin\Debug\ICompuesto.exe
+C:\Users\Lenovo\Desktop\INGENIERIA ECONOMICA\INGENIERIA ECONOMICA PROGRAMAS\ICompuesto\ICompuesto\bin\Debug\ICompuesto.pdb
+C:\Users\Lenovo\Desktop\INGENIERIA ECONOMICA\INGENIERIA ECONOMICA PROGRAMAS\ICompuesto\ICompuesto\obj\Debug\ICompuesto.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\INGENIERIA ECONOMICA\INGENIERIA ECONOMICA PROGRAMAS\ICompuesto\ICompuesto\obj\Debug\ICompuesto.Form1.resources
+C:\Users\Lenovo\Desktop\INGENIERIA ECONOMICA\INGENIERIA ECONOMICA PROGRAMAS\ICompuesto\ICompuesto\obj\Debug\ICompuesto.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\INGENIERIA ECONOMICA\INGENIERIA ECONOMICA PROGRAMAS\ICompuesto\ICompuesto\obj\Debug\ICompuesto.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\INGENIERIA ECONOMICA\INGENIERIA ECONOMICA PROGRAMAS\ICompuesto\ICompuesto\obj\Debug\ICompuesto.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\INGENIERIA ECONOMICA\INGENIERIA ECONOMICA PROGRAMAS\ICompuesto\ICompuesto\obj\Debug\ICompuesto.exe
+C:\Users\Lenovo\Desktop\INGENIERIA ECONOMICA\INGENIERIA ECONOMICA PROGRAMAS\ICompuesto\ICompuesto\obj\Debug\ICompuesto.pdb

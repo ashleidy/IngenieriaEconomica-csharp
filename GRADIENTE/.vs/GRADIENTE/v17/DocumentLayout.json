@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\INGENIERIA ECONOMICA\\INGENIERIA ECONOMICA PROGRAMAS\\GRADIENTE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{860E6253-0F3E-457D-87A0-84E36504689F}|GRADIENTE\\GRADIENTE.csproj|C:\\Users\\Lenovo\\Desktop\\INGENIERIA ECONOMICA\\INGENIERIA ECONOMICA PROGRAMAS\\GRADIENTE\\gradiente\\gradiente_gexponencial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860E6253-0F3E-457D-87A0-84E36504689F}|GRADIENTE\\GRADIENTE.csproj|solutionrelative:gradiente\\gradiente_gexponencial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860E6253-0F3E-457D-87A0-84E36504689F}|GRADIENTE\\GRADIENTE.csproj|C:\\Users\\Lenovo\\Desktop\\INGENIERIA ECONOMICA\\INGENIERIA ECONOMICA PROGRAMAS\\GRADIENTE\\gradiente\\gradiente_perpetuo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860E6253-0F3E-457D-87A0-84E36504689F}|GRADIENTE\\GRADIENTE.csproj|solutionrelative:gradiente\\gradiente_perpetuo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860E6253-0F3E-457D-87A0-84E36504689F}|GRADIENTE\\GRADIENTE.csproj|c:\\users\\lenovo\\desktop\\ingenieria economica\\ingenieria economica programas\\gradiente\\gradiente\\gradiente_aritmetico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860E6253-0F3E-457D-87A0-84E36504689F}|GRADIENTE\\GRADIENTE.csproj|solutionrelative:gradiente\\gradiente_aritmetico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860E6253-0F3E-457D-87A0-84E36504689F}|GRADIENTE\\GRADIENTE.csproj|C:\\Users\\Lenovo\\Desktop\\INGENIERIA ECONOMICA\\INGENIERIA ECONOMICA PROGRAMAS\\GRADIENTE\\gradiente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860E6253-0F3E-457D-87A0-84E36504689F}|GRADIENTE\\GRADIENTE.csproj|solutionrelative:gradiente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860E6253-0F3E-457D-87A0-84E36504689F}|GRADIENTE\\GRADIENTE.csproj|C:\\Users\\Lenovo\\Desktop\\INGENIERIA ECONOMICA\\INGENIERIA ECONOMICA PROGRAMAS\\GRADIENTE\\gradiente\\gradiente_gdecreciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860E6253-0F3E-457D-87A0-84E36504689F}|GRADIENTE\\GRADIENTE.csproj|solutionrelative:gradiente\\gradiente_gdecreciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860E6253-0F3E-457D-87A0-84E36504689F}|GRADIENTE\\GRADIENTE.csproj|C:\\Users\\Lenovo\\Desktop\\INGENIERIA ECONOMICA\\INGENIERIA ECONOMICA PROGRAMAS\\GRADIENTE\\gradiente\\gradiente_perpetuo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{860E6253-0F3E-457D-87A0-84E36504689F}|GRADIENTE\\GRADIENTE.csproj|solutionrelative:gradiente\\gradiente_perpetuo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860E6253-0F3E-457D-87A0-84E36504689F}|GRADIENTE\\GRADIENTE.csproj|C:\\Users\\Lenovo\\Desktop\\INGENIERIA ECONOMICA\\INGENIERIA ECONOMICA PROGRAMAS\\GRADIENTE\\gradiente\\gradiente_gexponencial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{860E6253-0F3E-457D-87A0-84E36504689F}|GRADIENTE\\GRADIENTE.csproj|solutionrelative:gradiente\\gradiente_gexponencial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860E6253-0F3E-457D-87A0-84E36504689F}|GRADIENTE\\GRADIENTE.csproj|C:\\Users\\Lenovo\\Desktop\\INGENIERIA ECONOMICA\\INGENIERIA ECONOMICA PROGRAMAS\\GRADIENTE\\gradiente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{860E6253-0F3E-457D-87A0-84E36504689F}|GRADIENTE\\GRADIENTE.csproj|solutionrelative:gradiente\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860E6253-0F3E-457D-87A0-84E36504689F}|GRADIENTE\\GRADIENTE.csproj|C:\\Users\\Lenovo\\Desktop\\INGENIERIA ECONOMICA\\INGENIERIA ECONOMICA PROGRAMAS\\GRADIENTE\\gradiente\\gradiente_aritmetico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{860E6253-0F3E-457D-87A0-84E36504689F}|GRADIENTE\\GRADIENTE.csproj|solutionrelative:gradiente\\gradiente_aritmetico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860E6253-0F3E-457D-87A0-84E36504689F}|GRADIENTE\\GRADIENTE.csproj|C:\\Users\\Lenovo\\Desktop\\INGENIERIA ECONOMICA\\INGENIERIA ECONOMICA PROGRAMAS\\GRADIENTE\\gradiente\\gradiente_lineal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860E6253-0F3E-457D-87A0-84E36504689F}|GRADIENTE\\GRADIENTE.csproj|solutionrelative:gradiente\\gradiente_lineal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860E6253-0F3E-457D-87A0-84E36504689F}|GRADIENTE\\GRADIENTE.csproj|C:\\Users\\Lenovo\\Desktop\\INGENIERIA ECONOMICA\\INGENIERIA ECONOMICA PROGRAMAS\\GRADIENTE\\gradiente\\gradiente_gdecreciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{860E6253-0F3E-457D-87A0-84E36504689F}|GRADIENTE\\GRADIENTE.csproj|solutionrelative:gradiente\\gradiente_gdecreciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860E6253-0F3E-457D-87A0-84E36504689F}|GRADIENTE\\GRADIENTE.csproj|C:\\Users\\Lenovo\\Desktop\\INGENIERIA ECONOMICA\\INGENIERIA ECONOMICA PROGRAMAS\\GRADIENTE\\gradiente\\gradiente_decreciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{860E6253-0F3E-457D-87A0-84E36504689F}|GRADIENTE\\GRADIENTE.csproj|solutionrelative:gradiente\\gradiente_decreciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860E6253-0F3E-457D-87A0-84E36504689F}|GRADIENTE\\GRADIENTE.csproj|C:\\Users\\Lenovo\\Desktop\\INGENIERIA ECONOMICA\\INGENIERIA ECONOMICA PROGRAMAS\\GRADIENTE\\gradiente\\gradiente_decreciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860E6253-0F3E-457D-87A0-84E36504689F}|GRADIENTE\\GRADIENTE.csproj|solutionrelative:gradiente\\gradiente_decreciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860E6253-0F3E-457D-87A0-84E36504689F}|GRADIENTE\\GRADIENTE.csproj|C:\\Users\\Lenovo\\Desktop\\INGENIERIA ECONOMICA\\INGENIERIA ECONOMICA PROGRAMAS\\GRADIENTE\\gradiente\\gradiente_lineal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{860E6253-0F3E-457D-87A0-84E36504689F}|GRADIENTE\\GRADIENTE.csproj|solutionrelative:gradiente\\gradiente_lineal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "gradiente_perpetuo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\INGENIERIA ECONOMICA\\INGENIERIA ECONOMICA PROGRAMAS\\GRADIENTE\\GRADIENTE\\gradiente_perpetuo.cs",
+              "RelativeDocumentMoniker": "GRADIENTE\\gradiente_perpetuo.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\INGENIERIA ECONOMICA\\INGENIERIA ECONOMICA PROGRAMAS\\GRADIENTE\\GRADIENTE\\gradiente_perpetuo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GRADIENTE\\gradiente_perpetuo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-24T22:39:13.511Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "gradiente_Gdecreciente.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\INGENIERIA ECONOMICA\\INGENIERIA ECONOMICA PROGRAMAS\\GRADIENTE\\GRADIENTE\\gradiente_Gdecreciente.cs",
+              "RelativeDocumentMoniker": "GRADIENTE\\gradiente_Gdecreciente.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\INGENIERIA ECONOMICA\\INGENIERIA ECONOMICA PROGRAMAS\\GRADIENTE\\GRADIENTE\\gradiente_Gdecreciente.cs",
+              "RelativeToolTip": "GRADIENTE\\gradiente_Gdecreciente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-24T22:39:13.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\INGENIERIA ECONOMICA\\INGENIERIA ECONOMICA PROGRAMAS\\GRADIENTE\\GRADIENTE\\Form1.cs",
+              "RelativeDocumentMoniker": "GRADIENTE\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\INGENIERIA ECONOMICA\\INGENIERIA ECONOMICA PROGRAMAS\\GRADIENTE\\GRADIENTE\\Form1.cs",
+              "RelativeToolTip": "GRADIENTE\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-24T22:39:13.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "gradiente_aritmetico.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\INGENIERIA ECONOMICA\\INGENIERIA ECONOMICA PROGRAMAS\\GRADIENTE\\GRADIENTE\\gradiente_aritmetico.cs",
+              "RelativeDocumentMoniker": "GRADIENTE\\gradiente_aritmetico.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\INGENIERIA ECONOMICA\\INGENIERIA ECONOMICA PROGRAMAS\\GRADIENTE\\GRADIENTE\\gradiente_aritmetico.cs",
+              "RelativeToolTip": "GRADIENTE\\gradiente_aritmetico.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-24T22:39:14.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "gradiente_perpetuo.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\INGENIERIA ECONOMICA\\INGENIERIA ECONOMICA PROGRAMAS\\GRADIENTE\\GRADIENTE\\gradiente_perpetuo.cs",
+              "RelativeDocumentMoniker": "GRADIENTE\\gradiente_perpetuo.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\INGENIERIA ECONOMICA\\INGENIERIA ECONOMICA PROGRAMAS\\GRADIENTE\\GRADIENTE\\gradiente_perpetuo.cs",
+              "RelativeToolTip": "GRADIENTE\\gradiente_perpetuo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-24T22:39:16.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "gradiente_Gexponencial.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\INGENIERIA ECONOMICA\\INGENIERIA ECONOMICA PROGRAMAS\\GRADIENTE\\GRADIENTE\\gradiente_Gexponencial.cs",
+              "RelativeDocumentMoniker": "GRADIENTE\\gradiente_Gexponencial.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\INGENIERIA ECONOMICA\\INGENIERIA ECONOMICA PROGRAMAS\\GRADIENTE\\GRADIENTE\\gradiente_Gexponencial.cs",
+              "RelativeToolTip": "GRADIENTE\\gradiente_Gexponencial.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAAwCwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-24T22:39:16.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\INGENIERIA ECONOMICA\\INGENIERIA ECONOMICA PROGRAMAS\\GRADIENTE\\GRADIENTE\\Form1.cs",
+              "RelativeDocumentMoniker": "GRADIENTE\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\INGENIERIA ECONOMICA\\INGENIERIA ECONOMICA PROGRAMAS\\GRADIENTE\\GRADIENTE\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GRADIENTE\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-24T22:39:16.41Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "gradiente_Gexponencial.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\INGENIERIA ECONOMICA\\INGENIERIA ECONOMICA PROGRAMAS\\GRADIENTE\\GRADIENTE\\gradiente_Gexponencial.cs",
+              "RelativeDocumentMoniker": "GRADIENTE\\gradiente_Gexponencial.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\INGENIERIA ECONOMICA\\INGENIERIA ECONOMICA PROGRAMAS\\GRADIENTE\\GRADIENTE\\gradiente_Gexponencial.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GRADIENTE\\gradiente_Gexponencial.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-24T22:39:16.414Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "gradiente_aritmetico.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\INGENIERIA ECONOMICA\\INGENIERIA ECONOMICA PROGRAMAS\\GRADIENTE\\GRADIENTE\\gradiente_aritmetico.cs",
+              "RelativeDocumentMoniker": "GRADIENTE\\gradiente_aritmetico.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\INGENIERIA ECONOMICA PROGRAMAS\\GRADIENTE\\GRADIENTE\\gradiente_aritmetico.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\INGENIERIA ECONOMICA PROGRAMAS\\GRADIENTE\\GRADIENTE\\gradiente_aritmetico.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-24T22:39:16.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "gradiente_lineal.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\INGENIERIA ECONOMICA\\INGENIERIA ECONOMICA PROGRAMAS\\GRADIENTE\\GRADIENTE\\gradiente_lineal.cs",
+              "RelativeDocumentMoniker": "GRADIENTE\\gradiente_lineal.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\INGENIERIA ECONOMICA\\INGENIERIA ECONOMICA PROGRAMAS\\GRADIENTE\\GRADIENTE\\gradiente_lineal.cs",
+              "RelativeToolTip": "GRADIENTE\\gradiente_lineal.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAEQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-24T22:39:16.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "gradiente_Gdecreciente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\INGENIERIA ECONOMICA\\INGENIERIA ECONOMICA PROGRAMAS\\GRADIENTE\\GRADIENTE\\gradiente_Gdecreciente.cs",
+              "RelativeDocumentMoniker": "GRADIENTE\\gradiente_Gdecreciente.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\INGENIERIA ECONOMICA\\INGENIERIA ECONOMICA PROGRAMAS\\GRADIENTE\\GRADIENTE\\gradiente_Gdecreciente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GRADIENTE\\gradiente_Gdecreciente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-24T22:39:16.425Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "gradiente_decreciente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\INGENIERIA ECONOMICA\\INGENIERIA ECONOMICA PROGRAMAS\\GRADIENTE\\GRADIENTE\\gradiente_decreciente.cs",
+              "RelativeDocumentMoniker": "GRADIENTE\\gradiente_decreciente.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\INGENIERIA ECONOMICA PROGRAMAS\\GRADIENTE\\GRADIENTE\\gradiente_decreciente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\INGENIERIA ECONOMICA PROGRAMAS\\GRADIENTE\\GRADIENTE\\gradiente_decreciente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-24T22:39:16.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "gradiente_decreciente.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\INGENIERIA ECONOMICA\\INGENIERIA ECONOMICA PROGRAMAS\\GRADIENTE\\GRADIENTE\\gradiente_decreciente.cs",
+              "RelativeDocumentMoniker": "GRADIENTE\\gradiente_decreciente.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\INGENIERIA ECONOMICA\\INGENIERIA ECONOMICA PROGRAMAS\\GRADIENTE\\GRADIENTE\\gradiente_decreciente.cs",
+              "RelativeToolTip": "GRADIENTE\\gradiente_decreciente.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-24T22:39:16.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "gradiente_lineal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\INGENIERIA ECONOMICA\\INGENIERIA ECONOMICA PROGRAMAS\\GRADIENTE\\GRADIENTE\\gradiente_lineal.cs",
+              "RelativeDocumentMoniker": "GRADIENTE\\gradiente_lineal.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\INGENIERIA ECONOMICA PROGRAMAS\\GRADIENTE\\GRADIENTE\\gradiente_lineal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\INGENIERIA ECONOMICA PROGRAMAS\\GRADIENTE\\GRADIENTE\\gradiente_lineal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-10-24T22:39:16.435Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
