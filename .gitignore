@@ -1,0 +1,38 @@
+## Archivos de Visual Studio
+.vs/
+*.user
+*.suo
+
+## Archivos de compilación
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+## Archivos temporales
+*.tmp
+*.log
+*.bak
+*.swp
+
+## Archivos de paquetes
+packages/
+*.nupkg
+*.snupkg
+
+## Archivos de configuración local
+*.userprefs
+*.userosscache
+*.sln.docstates
+
+## Configuración de Rider o JetBrains
+.idea/
+*.sln.iml
+
+## Archivos de sistema operativo
+Thumbs.db
+Desktop.ini
+
+## Archivos de publicación
+publish/
